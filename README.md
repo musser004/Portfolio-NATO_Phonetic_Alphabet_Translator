@@ -1,5 +1,7 @@
 # Project: NATO Phonetic Alphabet Translator (Python Scripting)
 
+Demo Video: https://youtu.be/ZHEzxyGqORM
+
 Description: Simple application that translates a user inputting message into NATO phonetic alphabet names. Input may contain spaces and basic punctuation
 
 Python Libraries: Pandas
